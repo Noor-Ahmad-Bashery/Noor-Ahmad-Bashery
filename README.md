@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Noor Ahmad Bashery
+- 🔭 I’m currently working on
+-🚀 Servicyee – Mobile Application using Flutter
+-🛠 Building microservices in Node.js & MongoDb for real-time data processing
+-☁ Deployments in Appstore & Playstore, and CI/CD pipelines
 
 <!--
 **Noor-Ahmad-Bashery/Noor-Ahmad-Bashery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
