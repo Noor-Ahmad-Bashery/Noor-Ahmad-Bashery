@@ -21,7 +21,7 @@ Senior Full-Stack Software Developer & Team Lead with hands-on experience in **W
 ---
 
 ### ⚡ Skills & Technologies
-- **Frontend:** Flutter, Dart, React (optional if you want to add web skills)  
+- **Frontend:** Flutter, Dart, React
 - **Backend:** Node.js, Express, MongoDB, MySQL  
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines  
 - **Mobile Deployment:** App Store & Play Store  
