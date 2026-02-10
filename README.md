@@ -17,7 +17,7 @@ Senior Full-Stack Software Developer & Team Lead with hands-on experience in **W
 | **Armans** | [Play](https://play.google.com/store/apps/details?id=com.armans.armans) | [App Store](https://apps.apple.com/gb/app/armans/id6749176081) | [armans.com](https://armans.com) |
 | **Armans Business** | [Play](https://play.google.com/store/apps/details?id=com.armans.armans_business_app) | [App Store](https://apps.apple.com/gb/app/armans-business/id6752542725) | [armans.com](https://armans.com) |
 | **Armans Rider** | [Play](https://play.google.com/store/apps/details?id=com.armans.armans_rider_app) | [App Store](https://apps.apple.com/gb/app/armans-rider/id6752543050) | [armans.com](https://armans.com) |
-
+| **Allneeda** | [Web](https://allneeda-hom-services-web-frontend.vercel.app/)|
 ---
 
 ### ⚡ Skills & Technologies
