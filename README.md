@@ -22,7 +22,7 @@ Senior Full-Stack Software Developer with hands-on experience in **Mobile Apps**
 ---
 
 ### ⚡ Skills & Technologies
-- **Frontend:** Flutter, Dart, React
+- **Frontend:** Flutter, Dart
 - **Backend:** Node.js, Express, MongoDB, MySQL  
 - **DevOps:** Docker, Kubernetes, CI/CD pipelines  
 - **Mobile Deployment:** App Store & Play Store  
