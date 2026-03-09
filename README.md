@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Noor Ahmad Bashery
 
-Senior Full-Stack Software Developer & Team Lead with hands-on experience in **Web & Mobile Apps**, **Flutter**, **Node.js & MongoDB**, and **microservices architecture**. Skilled in **Docker, Kubernetes**, **App Store & Play Store deployments**, and **CI/CD pipelines**.
+Senior Full-Stack Software Developer with hands-on experience in **Mobile Apps**, **Flutter**, **Node.js & MongoDB**, and **microservices architecture**. Skilled in **Docker, Kubernetes**, **App Store & Play Store deployments**, and **CI/CD pipelines**.
 
 ### 🚀 Currently Working On
 - **Allneeda** – Mobile Application using **Flutter**  
