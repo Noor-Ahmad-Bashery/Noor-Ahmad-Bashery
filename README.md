@@ -3,8 +3,7 @@
 Senior Full-Stack Software Developer with hands-on experience in **Mobile Apps**, **Flutter**, **Node.js & MongoDB**, and **microservices architecture**. Skilled in **Docker, Kubernetes**, **App Store & Play Store deployments**, and **CI/CD pipelines**.
 
 ### 🚀 Currently Working On
-- **Allneeda** – Mobile Application using **Flutter**  
-- Building **microservices** in **Node.js & MongoDB** for real-time data processing  
+- **Trackilive** – Mobile Application using **Flutter**  
 - Managing **deployments** to App Store & Play Store with CI/CD pipelines  
 
 ### 📱 Flutter Projects
